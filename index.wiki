@@ -1,0 +1,7 @@
+= My Notes =
+    * Tasks
+    * Exercises
+    * Sustainable Energy
+    * Pizza friday
+    * Setup Python plotting script from Cinfdata
+    * [[Whaaaaat is happening]]
